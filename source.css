@@ -6563,14 +6563,14 @@ button.button_ae40a4 /* make user panel buttons round */ {
 }
 
 /*username glow hovered */
-/* .userTagUsernameBase__2bd24 {
+.userTagUsernameBase__2bd24 {
   text-shadow: none;
   transition: text-shadow 0.5s;
 }
 
 .userTagUsernameBase__2bd24:hover {
   text-shadow: 0px 0px 5px currentColor;
-} */
+} 
 
 /* Member List Show Animation */
 .membersWrap__5ca6b {
